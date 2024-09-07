@@ -19,7 +19,7 @@
    
 * Implementation: The dashboard, built using JupyterDash and Plotly is divided into three main tasks, each offering interactive visualizations to explore the dataset comprehensively. The interactive components such as dropdowns and tabs allow users to switch between tasks and visualize different aspects of the data.
 
-You can refer Python code file from same folder
+You can refer Final Project Python code file from the same folder
 
 * Screenshots:
   > Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
