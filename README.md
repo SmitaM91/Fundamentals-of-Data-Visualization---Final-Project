@@ -34,15 +34,18 @@ You can refer Python code file from same folder
 
 3) A summary of the key elements of your design and accompanying justification
 
-* Interactive Design: The dashboard emphasizes user interactivity through dropdowns, allowing users to customize the visualizations. This flexibility makes it easier to explore specific relationships between attributes.
+Interactive Design: The dashboard emphasizes user interactivity through dropdowns, allowing users to customize the visualizations. This flexibility makes it easier to explore specific relationships between attributes.
 
 * Key Visualizations:
-- Violin Plots and Histograms: Used in Task One to show the distribution of each wine attribute. Violin plots highlight the density of data points across different wine types.
-- Scatterplot Matrix: Provides a holistic view of the relationships between multiple wine attributes, allowing users to spot patterns and correlations.
-Scatterplots with Regression Lines: Task Three employs scatterplots with regression models to help users explore the effect of physical attributes on wine quality, supported by violin and histogram plots.
-Justification: The choice of visualizations aligns with the goal of helping users understand the data intuitively. For example, violin plots provide a more detailed view of attribute distributions compared to basic histograms, while scatterplots with regression lines clearly show trends between attributes and quality.
+  > Violin Plots and Histograms: Used in Task One to show the distribution of each wine attribute. Violin plots highlight the density of data points across different wine types.
+  > Scatterplot Matrix: Provides a holistic view of the relationships between multiple wine attributes, allowing users to spot patterns and correlations.
+  > Scatterplots with Regression Lines: Task Three employs scatterplots with regression models to help users explore the effect of physical attributes on wine quality, supported by violin and histogram plots.
 
-4. Discussion of the Final Evaluation Approach
+* Justification: The choice of visualizations aligns with the goal of helping users understand the data intuitively. For example, violin plots provide a more detailed view of attribute distributions compared to basic histograms, while scatterplots with regression lines clearly show trends between attributes and quality.
+
+
+4) Discussion of the Final Evaluation Approach
+   
 Procedure: For evaluation, I recruited five individuals—two colleagues from my previous role in manufacturing, two classmates, and one family member. They were asked to complete a series of tasks, such as comparing the acidity of red and white wines or identifying relationships between alcohol content and wine quality. The focus was on evaluating the dashboard’s usability, visual clarity, and the ability to extract meaningful insights.
 
 Results:
