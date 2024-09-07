@@ -1,6 +1,6 @@
 # Fundamentals of Data Visualization - Final Project
 
-* 1)  A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
+## 1)  A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
 
 * Data Recap: The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
 
