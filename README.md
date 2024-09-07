@@ -1,6 +1,6 @@
 # Fundamentals of Data Visualization - Final Project
 
-1)    A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
+1)  A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
 
 * Data Recap: The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
 
@@ -15,7 +15,7 @@
    > Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
 
 
-2) Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
+2)  Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
    
 * Implementation: The dashboard, built using JupyterDash and Plotly is divided into three main tasks, each offering interactive visualizations to explore the dataset comprehensively. The interactive components such as dropdowns and tabs allow users to switch between tasks and visualize different aspects of the data.
 
@@ -69,8 +69,8 @@ What Could Be Refined:
 * Simplifying the Layout: Based on user feedback, the scatterplot matrix could benefit from a more simplified layout. Allowing users to select fewer variables at a time or customize their view could reduce complexity.
 Performance Optimization: While the dashboard performed well for this dataset, future iterations could focus on optimizing the performance, particularly when handling larger datasets or more complex visualizations.
 
-what elements you would refine in future iterations
+what elements you would refine in future iterations:
 
-I would focus on improving the layout to simplify the user experience and optimizing performance for larger datasets, ensuring the dashboard remains both intuitive and responsive.
+* I would focus on improving the layout to simplify the user experience and optimizing performance for larger datasets, ensuring the dashboard remains both intuitive and responsive.
 
 Thank you so much for reviewing my project.
