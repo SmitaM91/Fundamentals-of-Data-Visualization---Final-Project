@@ -26,11 +26,17 @@ You can refer Python code file from same folder
 
   <img width="950" alt="image" src="https://github.com/user-attachments/assets/a5dc5d53-641f-4b66-ae2a-019d669a0178">
 
+
   > Task Two: Scatterplot matrix illustrating relationships between all physical attributes in the dataset.
+
+  <img width="809" alt="image" src="https://github.com/user-attachments/assets/36154750-8680-49d1-984d-d305c29f65c4">
+
+  <img width="870" alt="image" src="https://github.com/user-attachments/assets/3209ea49-724f-472b-b114-05a58e69fe0f">
 
 
   > Task Three: Scatterplot demonstrating the correlation between alcohol content and wine quality, with a regression line highlighting the trend.
 
+  <img width="867" alt="image" src="https://github.com/user-attachments/assets/13888e76-b5cb-4241-b574-b2aa8c3082a0">
 
 
 ## 3) A summary of the key elements of your design and accompanying justification
