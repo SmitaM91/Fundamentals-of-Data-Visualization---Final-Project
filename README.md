@@ -10,9 +10,9 @@
 
    > Task One: Provide users with the ability to explore the distribution of individual wine attributes using violin plots or histograms. This helps in visualizing how attributes differ across red and white wines.
 
-Task Two: Allow users to investigate correlations between physical attributes by providing a scatterplot matrix and detailed scatterplots for comparing two selected attributes.
+   > Task Two: Allow users to investigate correlations between physical attributes by providing a scatterplot matrix and detailed scatterplots for comparing two selected attributes.
 
-Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
+   > Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
 
 2) Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
    
@@ -21,7 +21,7 @@ Task Three: Analyze the relationship between physical attributes (such as alcoho
 You can refer Python code file from same folder
 
 * Screenshots:
-Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
+  ?  Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
 
 
 
