@@ -8,7 +8,7 @@
 
 * Tasks:
 
-   >>>> Task One: Provide users with the ability to explore the distribution of individual wine attributes using violin plots or histograms. This helps in visualizing how attributes differ across red and white wines.
+   > Task One: Provide users with the ability to explore the distribution of individual wine attributes using violin plots or histograms. This helps in visualizing how attributes differ across red and white wines.
 
 Task Two: Allow users to investigate correlations between physical attributes by providing a scatterplot matrix and detailed scatterplots for comparing two selected attributes.
 
