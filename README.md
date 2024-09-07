@@ -2,13 +2,17 @@
 
 1) A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
 
-* Data Recap *: The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
+* Data Recap : The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
 
 * Goals: The primary goal of this project was to design an intuitive and user-friendly dashboard using Dash and Plotly, enabling users to visualize and explore the relationships between wine attributes and quality. I aimed to make the data accessible by allowing users to interactively filter attributes, wine types and compare correlations, focusing on attributes that contribute to higher-quality wine.
 
-* Tasks: Task One: Provide users with the ability to explore the distribution of individual wine attributes using violin plots or histograms. This helps in visualizing how attributes differ across red and white wines.
+* Tasks:
+Task One: Provide users with the ability to explore the distribution of individual wine attributes using violin plots or histograms. This helps in visualizing how attributes differ across red and white wines.
+
 Task Two: Allow users to investigate correlations between physical attributes by providing a scatterplot matrix and detailed scatterplots for comparing two selected attributes.
+
 Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
+
 2. Screenshots of and/or Link to Visualization Implementation
 Implementation: The dashboard, built using JupyterDash and Plotly, is divided into three main tasks, each offering interactive visualizations to explore the dataset comprehensively. The interactive components such as dropdowns and tabs allow users to switch between tasks and visualize different aspects of the data.
 
