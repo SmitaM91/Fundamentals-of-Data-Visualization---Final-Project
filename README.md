@@ -24,6 +24,7 @@ You can refer Python code file from same folder
 * Screenshots:
   > Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
 
+  <img width="950" alt="image" src="https://github.com/user-attachments/assets/a5dc5d53-641f-4b66-ae2a-019d669a0178">
 
   > Task Two: Scatterplot matrix illustrating relationships between all physical attributes in the dataset.
 
