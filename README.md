@@ -2,7 +2,7 @@
 
 1) A brief recap of your data, goals, and tasks, focusing on those that most directly influence your design
 
-*Data Recap: The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
+* Data Recap *: The dataset used in my project is a combination of red and white wine data, with attributes such as acidity, residual sugar, alcohol content and overall quality ratings. The data provides a comprehensive look into the physicochemical properties of wines, which can be analyzed to understand their influence on wine quality. Having worked with manufacturing data in the past, I approached this project with a focus on creating an efficient, interactive dashboard that allows users to draw meaningful insights from the dataset.
 
 * Goals: The primary goal of this project was to design an intuitive and user-friendly dashboard using Dash and Plotly, enabling users to visualize and explore the relationships between wine attributes and quality. I aimed to make the data accessible by allowing users to interactively filter attributes, wine types and compare correlations, focusing on attributes that contribute to higher-quality wine.
 
