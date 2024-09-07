@@ -14,6 +14,7 @@
 
    > Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
 
+
 2) Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
    
 * Implementation: The dashboard, built using JupyterDash and Plotly is divided into three main tasks, each offering interactive visualizations to explore the dataset comprehensively. The interactive components such as dropdowns and tabs allow users to switch between tasks and visualize different aspects of the data.
@@ -21,25 +22,23 @@
 You can refer Python code file from same folder
 
 * Screenshots:
-  ?  Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
+  > Task One: Visualization showing the distribution of "Fixed Acidity" using violin plots, distinguishing red and white wines.
+
+
+  > Task Two: Scatterplot matrix illustrating relationships between all physical attributes in the dataset.
+
+
+  > Task Three: Scatterplot demonstrating the correlation between alcohol content and wine quality, with a regression line highlighting the trend.
 
 
 
-Task Two: Scatterplot matrix illustrating relationships between all physical attributes in the dataset.
+3) A summary of the key elements of your design and accompanying justification
 
+* Interactive Design: The dashboard emphasizes user interactivity through dropdowns, allowing users to customize the visualizations. This flexibility makes it easier to explore specific relationships between attributes.
 
-Task Three: Scatterplot demonstrating the correlation between alcohol content and wine quality, with a regression line highlighting the trend.
-
-
-
-
-3. Summary of the Key Elements of Your Design and Justification
-Interactive Design: The dashboard emphasizes user interactivity through dropdowns, allowing users to customize the visualizations. This flexibility makes it easier to explore specific relationships between attributes.
-
-Key Visualizations:
-
-Violin Plots and Histograms: Used in Task One to show the distribution of each wine attribute. Violin plots highlight the density of data points across different wine types.
-Scatterplot Matrix: Provides a holistic view of the relationships between multiple wine attributes, allowing users to spot patterns and correlations.
+* Key Visualizations:
+- Violin Plots and Histograms: Used in Task One to show the distribution of each wine attribute. Violin plots highlight the density of data points across different wine types.
+- Scatterplot Matrix: Provides a holistic view of the relationships between multiple wine attributes, allowing users to spot patterns and correlations.
 Scatterplots with Regression Lines: Task Three employs scatterplots with regression models to help users explore the effect of physical attributes on wine quality, supported by violin and histogram plots.
 Justification: The choice of visualizations aligns with the goal of helping users understand the data intuitively. For example, violin plots provide a more detailed view of attribute distributions compared to basic histograms, while scatterplots with regression lines clearly show trends between attributes and quality.
 
