@@ -1,2 +1,2 @@
-# Fundamentals-of-Data-Visualization- Final Project
+# Fundamentals of Data Visualization - Final Project
 
