@@ -15,7 +15,7 @@
    > Task Three: Analyze the relationship between physical attributes (such as alcohol content, acidity, etc.) and wine quality, offering scatterplots with regression lines to highlight trends.
 
 
-2)  Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
+## 2)  Screenshots of and/or a link to your visualization implementation (see below for additional guidance)
    
 * Implementation: The dashboard, built using JupyterDash and Plotly is divided into three main tasks, each offering interactive visualizations to explore the dataset comprehensively. The interactive components such as dropdowns and tabs allow users to switch between tasks and visualize different aspects of the data.
 
@@ -32,7 +32,7 @@ You can refer Python code file from same folder
 
 
 
-3) A summary of the key elements of your design and accompanying justification
+## 3) A summary of the key elements of your design and accompanying justification
 
 Interactive Design: The dashboard emphasizes user interactivity through dropdowns, allowing users to customize the visualizations. This flexibility makes it easier to explore specific relationships between attributes.
 
@@ -47,7 +47,7 @@ Interactive Design: The dashboard emphasizes user interactivity through dropdown
 * Justification: The choice of visualizations aligns with the goal of helping users understand the data intuitively. For example, violin plots provide a more detailed view of attribute distributions compared to basic histograms, while scatterplots with regression lines clearly show trends between attributes and quality.
 
 
-4) A discussion of your final evaluation approach, including the procedure, people recruited, and results. Note that, due to the difficulty of recruiting experts, you can use colleagues, friends, classmates, or family to evaluate your designs if experts or others from your target population are unavailable.
+## 4) A discussion of your final evaluation approach, including the procedure, people recruited, and results. Note that, due to the difficulty of recruiting experts, you can use colleagues, friends, classmates, or family to evaluate your designs if experts or others from your target population are unavailable.
    
 For evaluation, I have contacted five individuals — 3 colleagues from my previous role in manufacturing and 2 family members. They were asked to complete a series of tasks, such as comparing the acidity of red and white wines or identifying relationships between alcohol content and wine quality. My focus was on evaluating the dashboard’s usability, visual clarity and the ability to extract meaningful insights.
 
@@ -57,7 +57,7 @@ Results:
 
 * Areas for Improvement: Some users (my family members :)) found the scatterplot matrix a bit overwhelming initially due to the number of variables displayed. Suggestions included providing more instructions or allowing users to customize which variables are shown.
 
-5. A synthesis of your findings, including what elements of your approach worked well and what elements you would refine in future iterations.
+## 5. A synthesis of your findings, including what elements of your approach worked well and what elements you would refine in future iterations.
 
 what elements of your approach worked well:
 
